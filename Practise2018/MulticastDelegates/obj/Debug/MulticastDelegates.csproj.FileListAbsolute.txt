@@ -1,0 +1,6 @@
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\MulticastDelegates\bin\Debug\MulticastDelegates.exe.config
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\MulticastDelegates\obj\Debug\MulticastDelegates.csprojResolveAssemblyReference.cache
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\MulticastDelegates\obj\Debug\MulticastDelegates.pdb

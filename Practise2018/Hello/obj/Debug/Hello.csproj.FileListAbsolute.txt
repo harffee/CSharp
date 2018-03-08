@@ -1,0 +1,6 @@
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Hello\bin\Debug\Hello.exe.config
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Hello\bin\Debug\Hello.exe
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Hello\bin\Debug\Hello.pdb
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Hello\obj\Debug\Hello.exe
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Hello\obj\Debug\Hello.pdb

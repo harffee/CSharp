@@ -1,0 +1,6 @@
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Practise2018\bin\Debug\Practise2018.exe.config
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Practise2018\bin\Debug\Practise2018.exe
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Practise2018\bin\Debug\Practise2018.pdb
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Practise2018\obj\Debug\Practise2018.csprojResolveAssemblyReference.cache
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Practise2018\obj\Debug\Practise2018.exe
+C:\Users\v-jzingh\Source\Repos\CSharp\Practise2018\Practise2018\obj\Debug\Practise2018.pdb
